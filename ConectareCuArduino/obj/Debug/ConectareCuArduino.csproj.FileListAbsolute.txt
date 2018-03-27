@@ -1,0 +1,9 @@
+D:\Studenti\Nitoi Madalina\POO\Visual Studio\ConectareCuArduino\ConectareCuArduino\bin\Debug\ConectareCuArduino.exe.config
+D:\Studenti\Nitoi Madalina\POO\Visual Studio\ConectareCuArduino\ConectareCuArduino\bin\Debug\ConectareCuArduino.exe
+D:\Studenti\Nitoi Madalina\POO\Visual Studio\ConectareCuArduino\ConectareCuArduino\bin\Debug\ConectareCuArduino.pdb
+D:\Studenti\Nitoi Madalina\POO\Visual Studio\ConectareCuArduino\ConectareCuArduino\obj\Debug\ConectareCuArduino.csprojResolveAssemblyReference.cache
+D:\Studenti\Nitoi Madalina\POO\Visual Studio\ConectareCuArduino\ConectareCuArduino\obj\Debug\ConectareCuArduino.Form1.resources
+D:\Studenti\Nitoi Madalina\POO\Visual Studio\ConectareCuArduino\ConectareCuArduino\obj\Debug\ConectareCuArduino.Properties.Resources.resources
+D:\Studenti\Nitoi Madalina\POO\Visual Studio\ConectareCuArduino\ConectareCuArduino\obj\Debug\ConectareCuArduino.csproj.GenerateResource.Cache
+D:\Studenti\Nitoi Madalina\POO\Visual Studio\ConectareCuArduino\ConectareCuArduino\obj\Debug\ConectareCuArduino.exe
+D:\Studenti\Nitoi Madalina\POO\Visual Studio\ConectareCuArduino\ConectareCuArduino\obj\Debug\ConectareCuArduino.pdb
